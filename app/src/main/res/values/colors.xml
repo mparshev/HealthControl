@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorLow">#0000FF</color>
+    <color name="colorNorm">#00FF00</color>
+    <color name="colorWarn">#FFFF00</color>
+    <color name="colorCrit">#FF0000</color>
+    <color name="colorArrythmia">#FF00FF</color>
+</resources>

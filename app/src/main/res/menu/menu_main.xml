@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="ml.parshev.healthcontrol.MainActivity">
+    <item android:id="@+id/action_sugar" android:title="@string/title_sugar"
+        android:icon="@drawable/ic_action_sugar" app:showAsAction="ifRoom" />
+    <item android:id="@+id/action_pressure" android:title="@string/title_pressure"
+        android:icon="@drawable/ic_action_pressure" app:showAsAction="ifRoom" />
+    <item android:id="@+id/action_weight" android:title="@string/title_weight"
+        android:icon="@drawable/ic_action_weight" app:showAsAction="ifRoom" />
+</menu>

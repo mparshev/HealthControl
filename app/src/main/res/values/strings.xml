@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HealthControl</string>
+    <string name="title_sugar">Сахар</string>
+    <string name="title_pressure">Давление</string>
+    <string name="title_weight">Вес</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="title_height">Рост</string>
+    <string name="enter_your_height_first">Сперва введите рост</string>
+    <string name="imt_norm">Норма (ИМТ %.1f)</string>
+    <string name="imt_low">Дефицит массы тела (ИМТ %.1f)</string>
+    <string name="imt_hi">Избыточная масса тела (ИМТ %.1f)</string>
+    <string name="imt_fat">Ожирение (ИМТ %.1f)</string>
+    <string name="arrythmia">Арритмия</string>
+    <string name="sys">Sys</string>
+    <string name="dia">Dia</string>
+    <string name="pulse">Пульс</string>
+    <string name="sugar0">Натощак</string>
+    <string name="sugar1">После еды</string>
+    <string name="sugar2">Больше 2 ч</string>
+    <string name="action_discard">Удалить</string>
+    <string name="action_accept">Ok</string>
+</resources>
